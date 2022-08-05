@@ -18,7 +18,7 @@ body{
         background-color: white;
     }
     .image{
-        background: url(../product-preview-card-component-main/images/image-product-desktop.jpg) ;
+        background: url(./images/image-product-desktop.jpg) ;
         background-size: cover;
         
         border-top-left-radius: 10px;
@@ -45,7 +45,7 @@ body{
     }
     .image{
         height:280px ;
-        background-image: url(../product-preview-card-component-main/images/image-product-mobile.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         background-size:cover;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
