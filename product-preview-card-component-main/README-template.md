@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/127.0.0.1_5500_product-preview-card-component-main_index.html%20(4).png)
-![](./screenshot/Screenshot%202022-08-05%20at%2011-15-11%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
+![Mobile Screenshort](./Screenshot/127.0.0.1_5500_product-preview-card-component-main_index.html%20(4).png)
+![Desktop Screenshort](./Screenshot/Screenshot%202022-08-05%20at%2011-15-11%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 <!-- Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -103,7 +103,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 <!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
-- Linkdin - [@yourusername](https://www.linkedin.com/in/rohan-hait-a6800722a)
+- Linkdin - [@RohanHait](https://www.linkedin.com/in/rohan-hait-a6800722a)
 
 <!-- **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.** -->
 
